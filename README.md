@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Yuhna Fahim
+**Web & Graphic Designer | Problem-Solver | Tech Enthusiast**
+![trees-7823389_1280](https://github.com/user-attachments/assets/0b88e52c-22bd-4b1d-8cf9-b54d70dad0e3)
+
 <!--
 **glidestyle/glidestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +20,6 @@ Here are some ideas to get you started:
 -->![daffodils-1316128_1280](https://github.com/user-attachments/assets/82ddb7cb-5290-4b6f-bac5-14194e1d16a4)
 ![free-photo-of-reflection-in-glass-ball-at-sunset](https://github.com/user-attachments/assets/ea536a17-2a80-413f-8cff-b74ed348728e)
 
+### 🛠️ Skills:
+Web Development: HTML, CSS, JavaScript
+Graphic Design: Canva, Photoshop, Illustrator
